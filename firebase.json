@@ -1,0 +1,9 @@
+{
+  "firebase": "pace-timer",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
